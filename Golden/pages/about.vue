@@ -1,11 +1,14 @@
 <template>
 <div class="about">
   <div class="om-header">Om Oss</div>
+
   <div>
-    Våran hemsida riktar sig i huvudsak till lastbilschauförer - men är självklart menad för alla.
-    Vi har försökt att göra det vi kan för att hemsidan ska vara så optimerad som möjlig för våra användare.
-    På hemsidan kan du skrolla och kolla igenom böcker, samt beställa och köpa böcker från din varukorg.
-    </div>
+  Våran hemsida riktar sig i huvudsak till lastbilschauförer - men är självklart menad för alla.
+  Vi har försökt att göra det vi kan för att hemsidan ska vara så optimerad som möjlig för våra användare.
+  På hemsidan kan du skrolla och kolla igenom böcker,
+  samt beställa och köpa böcker genom att lägga de i din varukorg.
+  Längre ner på sidan finns en karta som visar biblioteken du kan hämta ut eller köpa böckerna i din varukorg från.
+  </div>
     <br>
 
 <div class="staff">Anställda:</div>
@@ -40,10 +43,16 @@ export default {
 <style>
 .om-header, .staff {
  font-weight: bold;
+ font-size: 160%;
 }
 
 .about {
   padding: 10px;
+  font-size: 120%;
+}
+
+.about:hover {
+  cursor: default;
 }
 
 .staff-members{
@@ -57,5 +66,10 @@ export default {
 
 .staff-member {
   padding: 2%;
+}
+
+.bild {
+  border-radius: 15px;
+  border: solid black 4px;
 }
 </style>
