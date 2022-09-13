@@ -2217,7 +2217,8 @@
             "phone": "(832) 502-2080 x73152",
             "role": "librarian",
             "dateOfBirth": "1985-08-12T08:46:47.909Z",
-            "avatar": "https://cdn.fakercloud.com/avatars/ganserene_128.jpg"
+            "avatar": "https://cdn.fakercloud.com/avatars/ganserene_128.jpg",
+            "password": "FlorenceMoreLikeHorace"
         },
         {
             "id": 1,
@@ -2226,7 +2227,8 @@
             "phone": "(683) 364-6626",
             "role": "manager",
             "dateOfBirth": "1989-05-13T14:12:58.208Z",
-            "avatar": "https://cdn.fakercloud.com/avatars/bublienko_128.jpg"
+            "avatar": "https://cdn.fakercloud.com/avatars/bublienko_128.jpg",
+            "password": "KateForLifeLol"
         },
         {
             "id": 2,
@@ -2235,7 +2237,8 @@
             "phone": "(880) 785-3345",
             "role": "librarian",
             "dateOfBirth": "1990-10-24T01:11:26.670Z",
-            "avatar": "https://cdn.fakercloud.com/avatars/calebjoyce_128.jpg"
+            "avatar": "https://cdn.fakercloud.com/avatars/calebjoyce_128.jpg",
+            "password": "TackFörBIställetFörA"
         },
         {
             "id": 3,
@@ -2244,7 +2247,8 @@
             "phone": "952-531-7444",
             "role": "author",
             "dateOfBirth": "1656-11-06T11:03:53.873Z",
-            "avatar": "https://cdn.fakercloud.com/avatars/gmourier_128.jpg"
+            "avatar": "https://cdn.fakercloud.com/avatars/gmourier_128.jpg",
+            "password": "Password1234"
         },
         {
             "id": 4,
@@ -2253,7 +2257,8 @@
             "phone": "(284) 396-6500 x2737",
             "role": "librarian",
             "dateOfBirth": "1999-03-16T18:26:12.841Z",
-            "avatar": "https://cdn.fakercloud.com/avatars/sindresorhus_128.jpg"
+            "avatar": "https://cdn.fakercloud.com/avatars/sindresorhus_128.jpg",
+            "password": "ImLiberian"
         }
     ],
     "customers": [
