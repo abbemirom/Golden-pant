@@ -31,7 +31,7 @@ export default {
     ).then(res => res.json())
   }
 }
-</script>>
+</script>
 
 <style>
 </style>
