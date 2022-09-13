@@ -1,5 +1,5 @@
 <template>
-  <nav class="sticky w-full p-6 bg-white border-b-2">
+  <nav class="sticky w-full p-6 bg-yellow-600 border-b-2">
     <div class="flex items-center justify-between">
 
       <!-- Mobile toggle & varukorg -->
@@ -70,7 +70,7 @@
 
         <ul class="divide-y font-sans">
           <li><button @click="navigate('/')" class="my-4 inline-block">Home</button></li>
-          <li><button @click="navigate('/about-us')" class="my-4 inline-block">About</button></li>
+          <li><button @click="navigate('/about')" class="my-4 inline-block">About</button></li>
         </ul>
 
       </aside>

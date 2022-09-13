@@ -1,7 +1,6 @@
 <template>
   <div>
     <div class="text-xl text-center min-h-screen">
-      <div class="text-xl text-center w-full h-16 bg-yellow-600">Böcker</div>
       <div class="">
         <BokLista></BokLista>
         <!-- <Karta></Karta> -->
@@ -43,6 +42,8 @@ import NavBar from '/components/NavBar.vue'
 
 export default {
   components: { BokLista, Karta },
-  name: 'IndexPage'
+  name: 'IndexPage',
+  Buttons,
+  NavBar
 }
 </script>
