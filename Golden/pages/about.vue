@@ -15,18 +15,28 @@
 <div class="staff-members">
 
 <div class="staff-member">
-  <img src="https://filetandvine.com/wp-content/uploads/2015/11/buddy-placeholder-vertical.jpg" class="bild">
-  <div>Emilia Romberg</div>
+  <img src="https://cdn.fakercloud.com/avatars/ganserene_128.jpg" class="bild">
+  <div>Florence Stokes</div>
 </div>
 
 <div class="staff-member">
-  <img src="https://filetandvine.com/wp-content/uploads/2015/11/buddy-placeholder-vertical.jpg" class="bild">
-  <div>Lucas Olofsson</div>
+  <img src="https://cdn.fakercloud.com/avatars/bublienko_128.jpg" class="bild">
+  <div>Kate Bode</div>
 </div>
 
 <div class="staff-member">
-  <img src="https://filetandvine.com/wp-content/uploads/2015/11/buddy-placeholder-vertical.jpg" class="bild">
-  <div>Oliver Ottosson</div>
+  <img src="https://cdn.fakercloud.com/avatars/calebjoyce_128.jpg" class="bild">
+  <div>Jeton Mustini</div>
+</div>
+
+<div class="staff-member">
+  <img src="https://cdn.fakercloud.com/avatars/gmourier_128.jpg" class="bild">
+  <div>Joakim Flink</div>
+</div>
+
+<div class="staff-member">
+  <img src="https://cdn.fakercloud.com/avatars/sindresorhus_128.jpg" class="bild">
+  <div>Carlos Corwin</div>
 </div>
 </div>
 
