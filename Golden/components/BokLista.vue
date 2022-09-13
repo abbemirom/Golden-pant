@@ -4,6 +4,7 @@
     <div class="flex flex-row justify-center">
       <div class="w-1/4 h-20 md:h-40 bg-black my-10 mx-2 text-white rounded">
         {{ books[1].title }}
+        <img :src="books[1].img" />
       </div>
       <div class="w-1/4 h-20 md:h-40 bg-black my-10 mx-2 text-white rounded">
         Bild
