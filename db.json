@@ -2269,7 +2269,8 @@
             "email": "Kellie_Kunde1@yahoo.com",
             "password": "Bt9BnesdD3IW3tb",
             "timestamp": "2021-05-05T08:45:23.515Z",
-            "avatar": "https://cdn.fakercloud.com/avatars/mds_128.jpg"
+            "avatar": "https://cdn.fakercloud.com/avatars/mds_128.jpg",
+            "varukorg": [140, 2, 156]
         },
         {
             "id": 1,
