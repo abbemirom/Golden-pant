@@ -1,7 +1,8 @@
 <template>
   <div>
-    <NavBar></NavBar>
+
     <!-- <Tutorial/> -->
+
     <div>hejhej</div>
     <div>hejhej</div>
     <div>hejhej</div>
