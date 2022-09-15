@@ -1,6 +1,5 @@
 {
-    "books": [
-        {
+    "books": [{
             "id": 140,
             "title": "Svenska timmar - litteraturen",
             "author": "Svante Skoglund",
@@ -2210,9 +2209,9 @@
             "copies": 13
         }
     ],
-    "staff": [
-        {
+    "staff": [{
             "id": 5,
+            "varukorg": [140, 2, 156],
             "name": "Florence Stokes",
             "email": "Horace50@gmail.com",
             "phone": "(832) 502-2080 x73152",
@@ -2223,6 +2222,7 @@
         },
         {
             "id": 1,
+            "varukorg": [140, 2, 156],
             "name": "Kate Bode",
             "email": "Dusty_Rodriguez@hotmail.com",
             "phone": "(683) 364-6626",
@@ -2233,6 +2233,7 @@
         },
         {
             "id": 2,
+            "varukorg": [140, 2, 156],
             "name": "Jeton Mustini",
             "email": "jeton.mustini@hotmail.com",
             "phone": "(880) 785-3345",
@@ -2243,6 +2244,7 @@
         },
         {
             "id": 3,
+            "varukorg": [140, 2, 156],
             "name": "Joakim Flink",
             "email": "joakim.flink@hotmail.com",
             "phone": "952-531-7444",
@@ -2253,6 +2255,7 @@
         },
         {
             "id": 4,
+            "varukorg": [140, 2, 156],
             "name": "Carlos Corwin",
             "email": "Fletcher.Cartwright41@hotmail.com",
             "phone": "(284) 396-6500 x2737",
@@ -2262,9 +2265,9 @@
             "password": "ImLiberian"
         }
     ],
-    "customers": [
-        {
+    "customers": [{
             "id": 20,
+            "varukorg": [140, 2, 156],
             "name": "Miss Thomas Kling",
             "email": "Kellie_Kunde1@yahoo.com",
             "password": "Bt9BnesdD3IW3tb",
@@ -2273,6 +2276,7 @@
         },
         {
             "id": 1,
+            "varukorg": [140, 2, 156],
             "name": "Mrs. Brandon Nienow",
             "email": "Afton_Champlin@gmail.com",
             "password": "l5zckkComJGllkn",
@@ -2281,6 +2285,7 @@
         },
         {
             "id": 2,
+            "varukorg": [140, 2, 156],
             "name": "Desiree Kuhn",
             "email": "Brady.Kutch24@hotmail.com",
             "password": "DmqRhyqtlgqJQ7l",
@@ -2289,6 +2294,7 @@
         },
         {
             "id": 3,
+            "varukorg": [140, 2, 156],
             "name": "Ed Ebert IV",
             "email": "Jaqueline.Brakus@hotmail.com",
             "password": "NaYmtLbAXEdD8z8",
@@ -2297,6 +2303,7 @@
         },
         {
             "id": 4,
+            "varukorg": [140, 2, 156],
             "name": "Jon Schimmel",
             "email": "Brandi_Schuppe@yahoo.com",
             "password": "UQsYRBMg3pUD8NQ",
@@ -2305,6 +2312,7 @@
         },
         {
             "id": 5,
+            "varukorg": [140, 2, 156],
             "name": "Samuel Raynor",
             "email": "Albert74@gmail.com",
             "password": "jLAdf49qDA9v8jS",
@@ -2313,6 +2321,7 @@
         },
         {
             "id": 6,
+            "varukorg": [140, 2, 156],
             "name": "Hattie Gorczany",
             "email": "Shanna.Hauck@hotmail.com",
             "password": "LHUjVVZ32Snd_gp",
@@ -2321,6 +2330,7 @@
         },
         {
             "id": 7,
+            "varukorg": [140, 2, 156],
             "name": "Randall Willms",
             "email": "Monserrat.Dibbert@hotmail.com",
             "password": "IOw4himmipYG3dR",
@@ -2329,6 +2339,7 @@
         },
         {
             "id": 8,
+            "varukorg": [140, 2, 156],
             "name": "Ramona Farrell",
             "email": "Gwen_Nitzsche39@yahoo.com",
             "password": "J9IWPxIewm8e8N7",
@@ -2337,6 +2348,7 @@
         },
         {
             "id": 9,
+            "varukorg": [140, 2, 156],
             "name": "Vernon Kunze DDS",
             "email": "Maximillia3@yahoo.com",
             "password": "ODcRSjVVgpsUnLM",
@@ -2345,6 +2357,7 @@
         },
         {
             "id": 10,
+            "varukorg": [140, 2, 156],
             "name": "Timothy Feeney",
             "email": "Ewald_Reichel85@gmail.com",
             "password": "K7tTwETIhwSRO9x",
@@ -2353,6 +2366,7 @@
         },
         {
             "id": 11,
+            "varukorg": [140, 2, 156],
             "name": "Angela Schimmel",
             "email": "Laverne.Harvey@yahoo.com",
             "password": "bHO_3U3aPM_B38Q",
@@ -2361,6 +2375,7 @@
         },
         {
             "id": 12,
+            "varukorg": [140, 2, 156],
             "name": "Raquel Feeney DDS",
             "email": "Katherine.Corkery82@hotmail.com",
             "password": "K_Epi0MMr6cEE9f",
@@ -2369,6 +2384,7 @@
         },
         {
             "id": 13,
+            "varukorg": [140, 2, 156],
             "name": "Mr. Rodolfo Thiel",
             "email": "Loyal.Price@gmail.com",
             "password": "M8R2S84QbWtjISr",
@@ -2377,6 +2393,7 @@
         },
         {
             "id": 14,
+            "varukorg": [140, 2, 156],
             "name": "Tony Moore",
             "email": "Cleta_Gorczany4@yahoo.com",
             "password": "ye_jzqE9ZLnajDQ",
@@ -2385,6 +2402,7 @@
         },
         {
             "id": 15,
+            "varukorg": [140, 2, 156],
             "name": "Nick Ledner PhD",
             "email": "Isaac35@gmail.com",
             "password": "Akvd1ptbOFe6qNK",
@@ -2393,6 +2411,7 @@
         },
         {
             "id": 16,
+            "varukorg": [140, 2, 156],
             "name": "Bethany Wiza II",
             "email": "Fiona62@hotmail.com",
             "password": "MTGngjpLxxCzPjX",
@@ -2401,6 +2420,7 @@
         },
         {
             "id": 17,
+            "varukorg": [140, 2, 156],
             "name": "Chad Cruickshank",
             "email": "Marisa_Mosciski@yahoo.com",
             "password": "OvOXzL6oAR4k6Nw",
@@ -2409,6 +2429,7 @@
         },
         {
             "id": 18,
+            "varukorg": [140, 2, 156],
             "name": "Angel Ward",
             "email": "Noble.Nader@gmail.com",
             "password": "oV0GTN1rDsdeaJk",
@@ -2417,6 +2438,7 @@
         },
         {
             "id": 19,
+            "varukorg": [140, 2, 156],
             "name": "Ms. Donnie Hermiston",
             "email": "Ruthe64@hotmail.com",
             "password": "2lX87ev2njItUMg",
@@ -2424,12 +2446,10 @@
             "avatar": "https://cdn.fakercloud.com/avatars/allagringaus_128.jpg"
         }
     ],
-    "reservations": [
-        {
+    "reservations": [{
             "id": 50,
             "customerId": 13,
-            "books": [
-                {
+            "books": [{
                     "bookID": 14,
                     "returnDate": "2022-09-12"
                 },
@@ -2452,8 +2472,7 @@
         {
             "id": 1,
             "customerId": 15,
-            "books": [
-                {
+            "books": [{
                     "bookID": 15,
                     "returnDate": "2022-09-19"
                 },
@@ -2468,8 +2487,7 @@
         {
             "id": 2,
             "customerId": 9,
-            "books": [
-                {
+            "books": [{
                     "bookID": 11,
                     "returnDate": "2022-09-12"
                 },
@@ -2484,8 +2502,7 @@
         {
             "id": 3,
             "customerId": 7,
-            "books": [
-                {
+            "books": [{
                     "bookID": 3,
                     "returnDate": "2022-10-01"
                 },
@@ -2500,8 +2517,7 @@
         {
             "id": 4,
             "customerId": 15,
-            "books": [
-                {
+            "books": [{
                     "bookID": 9,
                     "returnDate": "2022-10-25"
                 },
@@ -2516,8 +2532,7 @@
         {
             "id": 5,
             "customerId": 11,
-            "books": [
-                {
+            "books": [{
                     "bookID": 13,
                     "returnDate": "2022-09-19"
                 },
@@ -2536,8 +2551,7 @@
         {
             "id": 6,
             "customerId": 5,
-            "books": [
-                {
+            "books": [{
                     "bookID": 12,
                     "returnDate": "2022-10-25"
                 },
@@ -2564,8 +2578,7 @@
         {
             "id": 7,
             "customerId": 16,
-            "books": [
-                {
+            "books": [{
                     "bookID": 2,
                     "returnDate": "2022-09-19"
                 },
@@ -2584,8 +2597,7 @@
         {
             "id": 8,
             "customerId": 13,
-            "books": [
-                {
+            "books": [{
                     "bookID": 3,
                     "returnDate": "2022-10-12"
                 },
@@ -2608,8 +2620,7 @@
         {
             "id": 9,
             "customerId": 4,
-            "books": [
-                {
+            "books": [{
                     "bookID": 10,
                     "returnDate": "2022-10-25"
                 },
@@ -2624,8 +2635,7 @@
         {
             "id": 10,
             "customerId": 6,
-            "books": [
-                {
+            "books": [{
                     "bookID": 9,
                     "returnDate": "2022-10-25"
                 },
@@ -2640,8 +2650,7 @@
         {
             "id": 11,
             "customerId": 15,
-            "books": [
-                {
+            "books": [{
                     "bookID": 4,
                     "returnDate": "2022-10-01"
                 },
@@ -2664,8 +2673,7 @@
         {
             "id": 12,
             "customerId": 3,
-            "books": [
-                {
+            "books": [{
                     "bookID": 7,
                     "returnDate": "2022-10-25"
                 },
@@ -2680,8 +2688,7 @@
         {
             "id": 13,
             "customerId": 3,
-            "books": [
-                {
+            "books": [{
                     "bookID": 13,
                     "returnDate": "2022-10-12"
                 },
@@ -2700,8 +2707,7 @@
         {
             "id": 14,
             "customerId": 16,
-            "books": [
-                {
+            "books": [{
                     "bookID": 6,
                     "returnDate": "2022-09-19"
                 },
@@ -2720,8 +2726,7 @@
         {
             "id": 15,
             "customerId": 16,
-            "books": [
-                {
+            "books": [{
                     "bookID": 5,
                     "returnDate": "2022-09-12"
                 },
@@ -2736,8 +2741,7 @@
         {
             "id": 16,
             "customerId": 12,
-            "books": [
-                {
+            "books": [{
                     "bookID": 2,
                     "returnDate": "2022-09-12"
                 },
@@ -2752,8 +2756,7 @@
         {
             "id": 17,
             "customerId": 9,
-            "books": [
-                {
+            "books": [{
                     "bookID": 14,
                     "returnDate": "2022-10-12"
                 },
@@ -2772,20 +2775,17 @@
         {
             "id": 18,
             "customerId": 20,
-            "books": [
-                {
-                    "bookID": 9,
-                    "returnDate": "2022-10-01"
-                }
-            ],
+            "books": [{
+                "bookID": 9,
+                "returnDate": "2022-10-01"
+            }],
             "totalPrice": 13,
             "timestamp": "2021-05-05T03:22:43.230Z"
         },
         {
             "id": 19,
             "customerId": 1,
-            "books": [
-                {
+            "books": [{
                     "bookID": 5,
                     "returnDate": "2022-10-25"
                 },
@@ -2812,8 +2812,7 @@
         {
             "id": 20,
             "customerId": 11,
-            "books": [
-                {
+            "books": [{
                     "bookID": 4,
                     "returnDate": "2022-10-01"
                 },
@@ -2828,8 +2827,7 @@
         {
             "id": 21,
             "customerId": 18,
-            "books": [
-                {
+            "books": [{
                     "bookID": 10,
                     "returnDate": "2022-10-01"
                 },
@@ -2852,8 +2850,7 @@
         {
             "id": 22,
             "customerId": 20,
-            "books": [
-                {
+            "books": [{
                     "bookID": 2,
                     "returnDate": "2022-09-12"
                 },
@@ -2872,8 +2869,7 @@
         {
             "id": 23,
             "customerId": 4,
-            "books": [
-                {
+            "books": [{
                     "bookID": 5,
                     "returnDate": "2022-09-12"
                 },
@@ -2900,8 +2896,7 @@
         {
             "id": 24,
             "customerId": 6,
-            "books": [
-                {
+            "books": [{
                     "bookID": 7,
                     "returnDate": "2022-09-19"
                 },
@@ -2924,8 +2919,7 @@
         {
             "id": 25,
             "customerId": 2,
-            "books": [
-                {
+            "books": [{
                     "bookID": 3,
                     "returnDate": "2022-09-19"
                 },
@@ -2940,20 +2934,17 @@
         {
             "id": 26,
             "customerId": 13,
-            "books": [
-                {
-                    "bookID": 4,
-                    "returnDate": "2022-10-01"
-                }
-            ],
+            "books": [{
+                "bookID": 4,
+                "returnDate": "2022-10-01"
+            }],
             "totalPrice": 46,
             "timestamp": "2021-05-04T12:37:21.673Z"
         },
         {
             "id": 27,
             "customerId": 17,
-            "books": [
-                {
+            "books": [{
                     "bookID": 6,
                     "returnDate": "2022-09-19"
                 },
@@ -2968,8 +2959,7 @@
         {
             "id": 28,
             "customerId": 15,
-            "books": [
-                {
+            "books": [{
                     "bookID": 8,
                     "returnDate": "2022-10-12"
                 },
@@ -2984,8 +2974,7 @@
         {
             "id": 29,
             "customerId": 7,
-            "books": [
-                {
+            "books": [{
                     "bookID": 5,
                     "returnDate": "2022-09-19"
                 },
@@ -3000,8 +2989,7 @@
         {
             "id": 30,
             "customerId": 17,
-            "books": [
-                {
+            "books": [{
                     "bookID": 12,
                     "returnDate": "2022-09-12"
                 },
@@ -3020,8 +3008,7 @@
         {
             "id": 31,
             "customerId": 5,
-            "books": [
-                {
+            "books": [{
                     "bookID": 8,
                     "returnDate": "2022-10-25"
                 },
@@ -3048,8 +3035,7 @@
         {
             "id": 32,
             "customerId": 9,
-            "books": [
-                {
+            "books": [{
                     "bookID": 1,
                     "returnDate": "2022-10-12"
                 },
@@ -3076,8 +3062,7 @@
         {
             "id": 33,
             "customerId": 13,
-            "books": [
-                {
+            "books": [{
                     "bookID": 5,
                     "returnDate": "2022-09-19"
                 },
@@ -3096,8 +3081,7 @@
         {
             "id": 34,
             "customerId": 7,
-            "books": [
-                {
+            "books": [{
                     "bookID": 16,
                     "returnDate": "2022-10-12"
                 },
@@ -3120,8 +3104,7 @@
         {
             "id": 35,
             "customerId": 15,
-            "books": [
-                {
+            "books": [{
                     "bookID": 8,
                     "returnDate": "2022-09-19"
                 },
@@ -3148,32 +3131,27 @@
         {
             "id": 36,
             "customerId": 16,
-            "books": [
-                {
-                    "bookID": 6,
-                    "returnDate": "2022-10-25"
-                }
-            ],
+            "books": [{
+                "bookID": 6,
+                "returnDate": "2022-10-25"
+            }],
             "totalPrice": 48,
             "timestamp": "2021-05-05T08:49:22.732Z"
         },
         {
             "id": 37,
             "customerId": 13,
-            "books": [
-                {
-                    "bookID": 3,
-                    "returnDate": "2022-10-12"
-                }
-            ],
+            "books": [{
+                "bookID": 3,
+                "returnDate": "2022-10-12"
+            }],
             "totalPrice": 45,
             "timestamp": "2021-05-05T01:39:28.795Z"
         },
         {
             "id": 38,
             "customerId": 1,
-            "books": [
-                {
+            "books": [{
                     "bookID": 15,
                     "returnDate": "2022-10-01"
                 },
@@ -3188,8 +3166,7 @@
         {
             "id": 39,
             "customerId": 2,
-            "books": [
-                {
+            "books": [{
                     "bookID": 5,
                     "returnDate": "2022-10-12"
                 },
@@ -3208,8 +3185,7 @@
         {
             "id": 40,
             "customerId": 17,
-            "books": [
-                {
+            "books": [{
                     "bookID": 3,
                     "returnDate": "2022-09-19"
                 },
@@ -3224,8 +3200,7 @@
         {
             "id": 41,
             "customerId": 1,
-            "books": [
-                {
+            "books": [{
                     "bookID": 14,
                     "returnDate": "2022-10-12"
                 },
@@ -3248,20 +3223,17 @@
         {
             "id": 42,
             "customerId": 18,
-            "books": [
-                {
-                    "bookID": 10,
-                    "returnDate": "2022-09-12"
-                }
-            ],
+            "books": [{
+                "bookID": 10,
+                "returnDate": "2022-09-12"
+            }],
             "totalPrice": 22,
             "timestamp": "2021-05-04T15:16:06.546Z"
         },
         {
             "id": 43,
             "customerId": 6,
-            "books": [
-                {
+            "books": [{
                     "bookID": 12,
                     "returnDate": "2022-09-12"
                 },
@@ -3288,8 +3260,7 @@
         {
             "id": 44,
             "customerId": 4,
-            "books": [
-                {
+            "books": [{
                     "bookID": 7,
                     "returnDate": "2022-10-25"
                 },
@@ -3304,8 +3275,7 @@
         {
             "id": 45,
             "customerId": 17,
-            "books": [
-                {
+            "books": [{
                     "bookID": 12,
                     "returnDate": "2022-10-01"
                 },
@@ -3320,8 +3290,7 @@
         {
             "id": 46,
             "customerId": 11,
-            "books": [
-                {
+            "books": [{
                     "bookID": 1,
                     "returnDate": "2022-10-01"
                 },
@@ -3340,8 +3309,7 @@
         {
             "id": 47,
             "customerId": 13,
-            "books": [
-                {
+            "books": [{
                     "bookID": 5,
                     "returnDate": "2022-09-19"
                 },
@@ -3368,8 +3336,7 @@
         {
             "id": 48,
             "customerId": 1,
-            "books": [
-                {
+            "books": [{
                     "bookID": 5,
                     "returnDate": "2022-09-12"
                 },
@@ -3392,8 +3359,7 @@
         {
             "id": 49,
             "customerId": 15,
-            "books": [
-                {
+            "books": [{
                     "bookID": 15,
                     "returnDate": "2022-10-25"
                 },
