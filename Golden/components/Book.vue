@@ -1,10 +1,34 @@
 <template>
   <div>
     <!-- <h1 class="taxt-xl">Böcker</h1> -->
-    <div class="flex flex-row justify-center mt-36">
+    <div class="flex flex-row justify-center mt-20">
       <div>
         <img :src="books[20].img" class="h-60 w-full" />
         <h4>{{ books[20].title }}</h4>
+      </div>
+      <div class="flex content-center">
+        <button>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="1.5"
+            stroke="currentColor"
+            class="w-6 h-6"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M8.25 4.5l7.5 7.5-7.5 7.5"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+    <div class="flex flex-row justify-center mt-10">
+      <div>
+        <img :src="books[140].img" class="h-60 w-full" />
+        <h4>{{ books[140].title }}</h4>
       </div>
       <div class="flex content-center">
         <button>
