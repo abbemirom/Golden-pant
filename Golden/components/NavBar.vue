@@ -82,7 +82,7 @@
 
       <!-- Header logo -->
       <div>
-        <button>Login</button>
+        <NuxtLink to="/test-login">Login</NuxtLink>
       </div>
     </div>
   </nav>
