@@ -3,8 +3,8 @@
     <!-- <h1 class="taxt-xl">Böcker</h1> -->
     <div class="flex flex-row justify-center mt-20">
       <div>
-        <img :src="books[20].img" class="h-60 w-full" />
-        <h4>{{ books[20].title }}</h4>
+        <img :src="books[40].img" class="h-60 w-full" />
+        <h4>{{ books[40].title }}</h4>
       </div>
       <div class="flex content-center">
         <button>
