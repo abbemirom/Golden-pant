@@ -2,7 +2,8 @@
   <div>
     <div class="text-xl text-center min-h-screen">
       <div class="">
-        <BokLista></BokLista>
+        <BookLista></BookLista>
+
         <!-- <Karta></Karta> -->
       </div>
     </div>
@@ -25,10 +26,7 @@
         <h1 class="text-5xl m-5 text-center underline underline-offset-4">
           Platsen tipsar
         </h1>
-        <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmesxPZ1weZ0tPN_FuV34dmT7N_u5qFMtOhg&usqp=CAU"
-          class="px-5 pb-5 w-full md:w-auto rounded"
-        />
+        <img :src="books[8].img" class="px-5 pb-5 w-full md:w-auto rounded" />
       </div>
     </div>
   </div>
@@ -44,6 +42,17 @@ export default {
   components: { BokLista, Karta },
   name: 'IndexPage',
   Buttons,
-  NavBar
+  NavBar,
+  data () {
+    return {
+      books: [],
+    }
+  },
+  async fetch () {
+    this.books = await fetch(
+      "http://localhost:5000/books"
+    ).then(res => res.json())
+  },
+
 }
 </script>
