@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="taxt-xl">Böcker</h1>
+    <!-- <h1 class="taxt-xl">Böcker</h1> -->
     <div class="flex flex-row justify-center mt-36">
       <div>
         <img :src="books[20].img" class="h-60 w-full" />

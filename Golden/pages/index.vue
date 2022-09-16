@@ -2,7 +2,7 @@
   <div>
     <div class="text-xl text-center min-h-screen">
       <div class="">
-        <BookLista></BookLista>
+        <Book></Book>
 
         <!-- <Karta></Karta> -->
       </div>
@@ -43,6 +43,7 @@ export default {
   name: 'IndexPage',
   Buttons,
   NavBar,
+
   data () {
     return {
       books: [],
